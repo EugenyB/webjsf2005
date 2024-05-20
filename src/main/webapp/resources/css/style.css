@@ -1,0 +1,11 @@
+table.table {
+    background-color: blue;
+}
+
+th {
+    background-color: beige;
+}
+
+td {
+    background-color: white;
+}
